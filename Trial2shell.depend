@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1540579797 source:/home/guehad/Documents/Trial2shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<sys/types.h>
+	<sys/wait.h>
+
